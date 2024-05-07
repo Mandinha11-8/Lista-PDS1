@@ -1,1 +1,1 @@
-# Lista-PDS1
+Pratica em desenvolvimentos de Sistema Lista IFSC
